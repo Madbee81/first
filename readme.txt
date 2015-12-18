@@ -1,2 +1,2 @@
 
-someone also worked on mybranch
+someone also worked on mybranch remotely
